@@ -11,7 +11,7 @@ Why multiple account? Currently midtrans not yet support multiple bank account n
 ### Installation
 
 ```
-npm install indonesiax/midtrans-node
+$ npm install midtrans-nodex
 ```
 
 ### Usage
