@@ -1,5 +1,5 @@
 {
-  "name": "midtrans-nodeX",
+  "name": "midtrans-nodex",
   "version": "0.1.0",
   "description": "Midtrans integration module for Node JS. Support for multiple payment account.",
   "main": "index.js",
@@ -19,7 +19,11 @@
     "payment"
   ],
   "author": "IndonesiaX Engineering <hostmaster@indonesiax.co.id>",
-  "contributors": [...],
+  "contributors": [
+    {
+      "name": "Dede Hamzah",
+      "email": "hamzah@indonesiax.co.id"
+	}],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IndonesiaX/midtrans-nodeX/issues"
