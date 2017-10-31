@@ -222,3 +222,11 @@ __Example:__
     console.log(err);
   });
   ```
+  
+### LICENSE
+
+<a href="LICENSE">
+<img src="https://raw.githubusercontent.com/valutac/accent/master/mit.png" width="75"></img>
+</a>
+
+
